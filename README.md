@@ -19,8 +19,8 @@ I'm a Full Stack MERN Developer based in **New York City**, passionate about bui
 - [🍽️ Online Food Delivery System](#) – MERN app with admin/user dashboards & Stripe payments  
 - [🎪 Event Management System](#) – Role-based booking system for event organizers  
 - [🗺️ Travel Guide (React)](#) – UI-focused frontend with dynamic routing  
-- [🧪 QCS Global (WordPress)](#) – Service-based lab site with custom plugins  
-- [🇺🇸 USA Visa Advisor (WordPress)](#) – Info-rich consultancy site with forms
+- [🧪 QCS Global (WordPress)](https://qcsglobal.org/) – Service-based lab site with custom plugins  
+- [🇺🇸 USA Visa Advisor (WordPress)](https://usavisaadvisor.com/) – Info-rich consultancy site with forms
 
 ---
 
