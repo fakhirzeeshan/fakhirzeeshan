@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Fakhir Zeeshan
 
-<!--
-**fakhirzeeshan/fakhirzeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack MERN Developer based in **New York City**, passionate about building modern, scalable, and user-friendly web applications. I specialize in React.js, Node.js, MongoDB, and Express — and I also develop WordPress and Shopify websites tailored for real business needs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **CMS:** WordPress, Shopify
+- **Tools:** Git, GitHub, Postman, Figma, Canva
+
+---
+
+### 💼 Projects
+
+- [🍽️ Online Food Delivery System](#) – MERN app with admin/user dashboards & Stripe payments  
+- [🎪 Event Management System](#) – Role-based booking system for event organizers  
+- [🗺️ Travel Guide (React)](#) – UI-focused frontend with dynamic routing  
+- [🧪 QCS Global (WordPress)](#) – Service-based lab site with custom plugins  
+- [🇺🇸 USA Visa Advisor (WordPress)](#) – Info-rich consultancy site with forms
+
+---
+
+### 📫 Contact
+
+- 📍 Bronx, NY  
+- 📧 fakhirzeeshan02@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
+
+---
+
+Thanks for visiting my profile! Let’s build something great together.
+
