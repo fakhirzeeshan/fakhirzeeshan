@@ -20,7 +20,6 @@ Full Stack MERN Developer based in **New York City**. I build responsive, user-f
 
 - **[GrubGo - Online Food Delivery System](https://github.com/fakhirzeeshan/GrubGo-OnlineFoodDeliverySystem)**: MERN app with admin and user dashboards and Stripe payments.
 - **[Event Management System](https://github.com/fakhirzeeshan/event-management-system)**: MERN role-based booking system for event organizers.
-- **Travel Guide (React)**: Frontend project with dynamic routing. *(add the repo link once it's public)*
 - **[QCS Global](https://qcsglobal.org/)**: WordPress site for a service-based lab, with custom plugins.
 - **[USA Visa Advisor](https://usavisaadvisor.com/)**: WordPress consultancy site with forms.
 
