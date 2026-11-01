@@ -1,36 +1,33 @@
-# 👋 Hi, I'm Fakhir Zeeshan
+# Hi, I'm Fakhir Zeeshan
 
-I'm a Full Stack MERN Developer based in **New York City**, passionate about building modern, scalable, and user-friendly web applications. I specialize in React.js, Node.js, MongoDB, and Express — and I also develop WordPress and Shopify websites tailored for real business needs.
+Full Stack MERN Developer based in **New York City**. I build responsive, user-friendly web applications with React.js, Node.js, Express, and MongoDB, and I also develop WordPress and Shopify websites for real businesses.
+
+**Open to work:** Full Stack / MERN Developer roles in New York City.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap
+- **Backend:** Node.js, Express.js, REST APIs
 - **Database:** MongoDB
-- **CMS:** WordPress, Shopify
+- **CMS and E-commerce:** WordPress, Shopify, Stripe
 - **Tools:** Git, GitHub, Postman, Figma, Canva
 
 ---
 
-### 💼 Projects
+### Featured Projects
 
-- [🍽️ Online Food Delivery System](#) – MERN app with admin/user dashboards & Stripe payments  
-- [🎪 Event Management System](#) – Role-based booking system for event organizers  
-- [🗺️ Travel Guide (React)](#) – UI-focused frontend with dynamic routing  
-- [🧪 QCS Global (WordPress)](https://qcsglobal.org/) – Service-based lab site with custom plugins  
-- [🇺🇸 USA Visa Advisor (WordPress)](https://usavisaadvisor.com/) – Info-rich consultancy site with forms
-
----
-
-### 📫 Contact
-
-- 📍 Bronx, NY  
-- 📧 fakhirzeeshan02@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
+- **[GrubGo - Online Food Delivery System](https://github.com/fakhirzeeshan/GrubGo-OnlineFoodDeliverySystem)**: MERN app with admin and user dashboards and Stripe payments.
+- **[Event Management System](https://github.com/fakhirzeeshan/event-management-system)**: MERN role-based booking system for event organizers.
+- **Travel Guide (React)**: Frontend project with dynamic routing. *(add the repo link once it's public)*
+- **[QCS Global](https://qcsglobal.org/)**: WordPress site for a service-based lab, with custom plugins.
+- **[USA Visa Advisor](https://usavisaadvisor.com/)**: WordPress consultancy site with forms.
 
 ---
 
-Thanks for visiting my profile! Let’s build something great together.
+### Contact
 
+- New York, NY
+- fakhirzeeshan02@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan)
